@@ -8,6 +8,7 @@ public class Basics {
 		System.out.println("Program is starting");
 		career = "Software Engineer";
 		System.out.println("Career" + career);
+		System.out.println("i am adding this to check github");
 		
 		// Declare & Define
 		int herourspweek = 40;
